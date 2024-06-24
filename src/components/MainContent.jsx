@@ -264,7 +264,7 @@ const MainContent = () => {
       <h1 className='jury-main-title'>Фотогалерея</h1>
       <PhotoGallery />
     </div>
-
+        
     </div>
   );
 };

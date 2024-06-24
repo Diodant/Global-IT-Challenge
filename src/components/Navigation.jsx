@@ -53,12 +53,14 @@ const Navigation = () => {
           </li>
         )}
         <li><Link to="/" onClick={toggleMenu}>Главная</Link></li>
+        <li><Link to="/about" onClick={toggleMenu}>О конкурсе</Link></li>
         <li><Link to="/articles" onClick={toggleMenu}>Новости</Link></li>
+        <li><Link to="/winners" onClick={toggleMenu}>Победители</Link></li>
         <li><Link to="/jury" onClick={toggleMenu}>Жюри</Link></li>
         <li><Link to="/criteria" onClick={toggleMenu}>Критерии оценки</Link></li>
         <li><Link to="/regulations" onClick={toggleMenu}>Положение</Link></li>
-        <li><Link to="/archive" onClick={toggleMenu}>Архив 2023</Link></li>
-        <li><Link to="/opportunities" onClick={toggleMenu}>Возможности для участников хакатонов</Link></li>
+        
+        
       </ul>
     </nav>
   );
