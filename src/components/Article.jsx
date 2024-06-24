@@ -33,7 +33,7 @@ const Article = () => {
 
   return (
     <div>
-      <PageHeader title="Новости" />
+      <PageHeader title="Новости & Статьи" />
       <div className="article-page">
         <h1 className="article-page-title">{article.title}</h1>
         <p className="article-page-date">{article.date}</p>

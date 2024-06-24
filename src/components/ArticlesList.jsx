@@ -10,7 +10,7 @@ const ArticlesList = () => {
 
     return (
         <div>
-            <PageHeader title="Новости" />
+            <PageHeader title="Новости & Статьи" />
             <div className="articles-container">
                 {articlesData.map((article, index) => (
                     <div key={index} className="article-card">
@@ -28,7 +28,7 @@ const ArticlesList = () => {
                             </h2>
                             <p className="article-description">{article.description}</p>
                             <Link to={`/articles/${article.id}`} className="article-read-more">
-                                READ MORE <i className="fas fa-arrow-right"></i>
+                                ПОДРОБНЕЕ <i className="fas fa-arrow-right"></i>
                             </Link>
                         </div>
                     </div>
