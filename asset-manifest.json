@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Global-IT-Challenge/static/css/main.32b9943d.css",
-    "main.js": "/Global-IT-Challenge/static/js/main.c674d28d.js",
-    "static/js/453.ae3339de.chunk.js": "/Global-IT-Challenge/static/js/453.ae3339de.chunk.js",
+    "main.css": "/Global-IT-Challenge/static/css/main.6db8480f.css",
+    "main.js": "/Global-IT-Challenge/static/js/main.eae95a4f.js",
+    "static/js/453.23263ec9.chunk.js": "/Global-IT-Challenge/static/js/453.23263ec9.chunk.js",
     "static/media/photo21.jpg": "/Global-IT-Challenge/static/media/photo21.30832457323237880e01.jpg",
     "static/media/photo22.jpg": "/Global-IT-Challenge/static/media/photo22.aa6b7a73a706fd93ab24.jpg",
     "static/media/photo23.jpg": "/Global-IT-Challenge/static/media/photo23.f466ccd706a9a982d4ba.jpg",
@@ -15,23 +15,30 @@
     "static/media/photo13.jpg": "/Global-IT-Challenge/static/media/photo13.d507695842f339063956.jpg",
     "static/media/photo14.jpg": "/Global-IT-Challenge/static/media/photo14.3dca62e7f21e0795bc2b.jpg",
     "static/media/photo15.jpg": "/Global-IT-Challenge/static/media/photo15.8bc1af27b891dd2f171b.jpg",
+    "static/media/Articles10.jpg": "/Global-IT-Challenge/static/media/Articles10.9fd1d02550aa16dd9430.jpg",
     "static/media/photo9.jpg": "/Global-IT-Challenge/static/media/photo9.19f1fd60fd4aaa1ad7ba.jpg",
     "static/media/photo12.jpg": "/Global-IT-Challenge/static/media/photo12.5c90c4a87528296e1859.jpg",
     "static/media/photo11.jpg": "/Global-IT-Challenge/static/media/photo11.37c0a088be2783b6e788.jpg",
     "static/media/photo16.jpg": "/Global-IT-Challenge/static/media/photo16.9883d3f5b7132eb1e34f.jpg",
     "static/media/Articles2.jpg": "/Global-IT-Challenge/static/media/Articles2.d6c3c7414ac44e6ad6d5.jpg",
+    "static/media/Articles9.jpg": "/Global-IT-Challenge/static/media/Articles9.980b257b5a16f10e6c75.jpg",
     "static/media/photo10.jpg": "/Global-IT-Challenge/static/media/photo10.985f053c2bce5841897e.jpg",
     "static/media/photo2.webp": "/Global-IT-Challenge/static/media/photo2.8c115b166f66dec401a6.webp",
     "static/media/photo1.webp": "/Global-IT-Challenge/static/media/photo1.7b9b3d01c999d61895d1.webp",
     "static/media/photo3.webp": "/Global-IT-Challenge/static/media/photo3.5dfe8b50a0f3f40f3817.webp",
+    "static/media/Articles8.jpg": "/Global-IT-Challenge/static/media/Articles8.116c6c3b4a8db3f4ae7c.jpg",
     "static/media/Articles3.png": "/Global-IT-Challenge/static/media/Articles3.79f3a2ddafea9dcf4baf.png",
+    "static/media/Articles6.jpg": "/Global-IT-Challenge/static/media/Articles6.56ceb62adcc7aa8a7a6d.jpg",
+    "static/media/Articles4.jpg": "/Global-IT-Challenge/static/media/Articles4.e43dc1cc9991a4f5b871.jpg",
     "static/media/Teammates.png": "/Global-IT-Challenge/static/media/Teammates.c3ef1300de28804ee3ff.png",
     "static/media/Articles1.png": "/Global-IT-Challenge/static/media/Articles1.9df84afe2492e0ff3408.png",
     "static/media/photo5.webp": "/Global-IT-Challenge/static/media/photo5.ab662a4fd10a8876e3ea.webp",
     "static/media/jury8.jpg": "/Global-IT-Challenge/static/media/jury8.ee23f8a69b5ae6496b31.jpg",
+    "static/media/Articles11.jpg": "/Global-IT-Challenge/static/media/Articles11.d2eb552a25306c2ce749.jpg",
     "static/media/jury4.jpeg": "/Global-IT-Challenge/static/media/jury4.f3f8f994f06141a16387.jpeg",
     "static/media/jury3.jpg": "/Global-IT-Challenge/static/media/jury3.c8a8e68134ecd2ee7121.jpg",
     "static/media/jury5.jpg": "/Global-IT-Challenge/static/media/jury5.341435d9b5b50c4c9b56.jpg",
+    "static/media/Articles7.jpg": "/Global-IT-Challenge/static/media/Articles7.f48b001d71a63b0c95f6.jpg",
     "static/media/photo17.jpg": "/Global-IT-Challenge/static/media/photo17.7cbf09e9c7a9a932f3d4.jpg",
     "static/media/jury9.jpeg": "/Global-IT-Challenge/static/media/jury9.1d8ce747d982e48d822a.jpeg",
     "static/media/jury6.jpg": "/Global-IT-Challenge/static/media/jury6.d31aa3812f4964767aa7.jpg",
@@ -43,6 +50,7 @@
     "static/media/Nomination-Img.svg": "/Global-IT-Challenge/static/media/Nomination-Img.26ea899ce73167103b590f7881493d97.svg",
     "static/media/bg.png": "/Global-IT-Challenge/static/media/bg.98ddbca68c44771dc865.png",
     "static/media/banner-btm.png": "/Global-IT-Challenge/static/media/banner-btm.29adab5febb62f847da9.png",
+    "static/media/Articles5.jpg": "/Global-IT-Challenge/static/media/Articles5.849839fb6274a6da9444.jpg",
     "static/media/logo.svg": "/Global-IT-Challenge/static/media/logo.0cb1d632e72beb57976bec710ce0bece.svg",
     "static/media/Sponsor2.svg": "/Global-IT-Challenge/static/media/Sponsor2.66e8db1b91d97a937cf9d813c8be741f.svg",
     "static/media/Sponsor4.svg": "/Global-IT-Challenge/static/media/Sponsor4.caf8643a6e5be65bcd4e13ca122c1ee1.svg",
@@ -51,12 +59,12 @@
     "static/media/banner-overlay.svg": "/Global-IT-Challenge/static/media/banner-overlay.7e1ca933046f9bb53c0623fda89fb916.svg",
     "static/media/open.svg": "/Global-IT-Challenge/static/media/open.a0250e0ba0f8de521f2f2a550cbb6502.svg",
     "static/media/close.svg": "/Global-IT-Challenge/static/media/close.409ef88d40cd4aa243b225eebc9666f7.svg",
-    "main.32b9943d.css.map": "/Global-IT-Challenge/static/css/main.32b9943d.css.map",
-    "main.c674d28d.js.map": "/Global-IT-Challenge/static/js/main.c674d28d.js.map",
-    "453.ae3339de.chunk.js.map": "/Global-IT-Challenge/static/js/453.ae3339de.chunk.js.map"
+    "main.6db8480f.css.map": "/Global-IT-Challenge/static/css/main.6db8480f.css.map",
+    "main.eae95a4f.js.map": "/Global-IT-Challenge/static/js/main.eae95a4f.js.map",
+    "453.23263ec9.chunk.js.map": "/Global-IT-Challenge/static/js/453.23263ec9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32b9943d.css",
-    "static/js/main.c674d28d.js"
+    "static/css/main.6db8480f.css",
+    "static/js/main.eae95a4f.js"
   ]
 }
