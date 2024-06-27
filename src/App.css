@@ -192,8 +192,8 @@ a:focus {
   text-decoration: none;
   font-size: 20px;
   letter-spacing: 1.1px;
-  text-transform: uppercase;
-  font-weight: 500;
+  
+  font-weight: 400;
 }
 
 .nav-links a:hover {
@@ -896,6 +896,138 @@ a:focus {
   font-weight: 300;
 }
 
+/* Winners */
+
+.winners-container {
+  padding: 50px 20px 250px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.year-section {
+  margin-bottom: 40px;
+}
+
+.year-title {
+  font-size: 36px;
+  color: #266ff2;
+  margin-bottom: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  position: relative;
+}
+
+
+
+.nomination-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  table-layout: fixed;
+}
+
+.nomination-table th, .nomination-table td {
+  padding: 15px 20px;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+  word-wrap: break-word;
+}
+
+.nomination-table th {
+  background-color: #266ff2;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.1px;
+}
+
+.nomination-table th:first-child {
+  border-top-left-radius: 10px;
+}
+
+.nomination-table th:last-child {
+  border-top-right-radius: 10px;
+}
+
+.nomination-table td {
+  color: #333;
+  font-weight: 300;
+  font-weight: 1.1px;
+}
+
+.nomination-table tbody tr:hover {
+  background-color: #f7f7f7;
+  transition: background-color 0.3s ease;
+}
+
+.nomination-table p {
+  margin: 0;
+}
+
+.nomination-table td:nth-child(1) {
+  width: 20%;
+}
+
+.nomination-table td:nth-child(2) {
+  width: 15%;
+}
+
+.nomination-table td:nth-child(3) {
+  width: 20%;
+}
+
+.nomination-table td:nth-child(4) {
+  width: 20%;
+}
+
+.nomination-table td:nth-child(5) {
+  width: 25%;
+}
+
+.nomination-table th:nth-child(1),
+.nomination-table th:nth-child(2),
+.nomination-table th:nth-child(3),
+.nomination-table th:nth-child(4),
+.nomination-table th:nth-child(5) {
+  white-space: nowrap;
+}
+
+.nomination-table th::before {
+  content: '';
+  width: 4px;
+  height: 100%;
+  background-color: #fff;
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.nomination-table th::after {
+  content: '';
+  width: 4px;
+  height: 100%;
+  background-color: #fff;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.nomination-table th:first-child::before {
+  display: none;
+}
+
+.nomination-table th:last-child::after {
+  display: none;
+}
+
 /* ArticlesList */
 
 
@@ -1022,7 +1154,7 @@ a:focus {
 .article-page {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 50px 20px;
+  padding: 50px 20px 250px 20px;
 }
 
 .article-page-title {
@@ -1077,6 +1209,8 @@ a:focus {
   border-radius: 10px;
   margin-bottom: 20px;
 }
+
+
 
 /* Sponsors */
 
@@ -1276,7 +1410,7 @@ a:focus {
 .footer-section {
   flex: 1;
   min-width: 200px;
-  margin: 20px;
+  margin: 40px;
 }
 
 .footer-section h3 {
@@ -1394,4 +1528,90 @@ a:focus {
   margin: 0;
 }
 
+/* Join-us */
 
+.join-us-form-container {
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: #f8faff;
+  border-radius: 15px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+.join-us-form-container h2 {
+  text-align: center;
+  color: #266ff2;
+  margin-bottom: 25px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.join-us-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #333;
+  font-size: 16px;
+}
+
+.form-group input,
+.form-group textarea {
+  padding: 12px 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+  transition: border-color 0.3s;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #266ff2;
+  outline: none;
+}
+
+.form-group textarea {
+  resize: vertical;
+  height: 120px;
+}
+
+.join-us-button {
+  padding: 12px 25px;
+  border-radius: 8px;
+  border: none;
+  background-color: #266ff2;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+
+.join-us-button:hover {
+  background-color: #003d99;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(0, 0, 153, 0.3);
+}
+
+.join-us-button:active {
+  transform: translateY(0);
+  box-shadow: 0 5px 10px rgba(0, 0, 153, 0.3);
+}
+
+.success-message {
+  text-align: center;
+  font-size: 20px;
+  color: #4caf50;
+  font-weight: 700;
+  margin-top: 20px;
+}

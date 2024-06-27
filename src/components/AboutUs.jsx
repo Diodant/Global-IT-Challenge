@@ -26,7 +26,7 @@ const AboutUs = () => {
           <p>Организованный Global Association of IT Experts (GAITE), конкурс не только поощряет инновации, но и активно способствует развитию технологической культуры и движению будущего вперед. Участвуя в Global IT Challenge, специалисты становятся частью глобального сообщества, которое стремится сделать мир лучше с помощью передовых технологий и искусственного интеллекта.</p>
         </section>
         
-        <div className="team-heat-section">
+        <div >
         <h2 className="team-heat-title">Цели Global IT Challenge:</h2>
         <div className="team-heat-content">
           <div className="team-heat-text">
