@@ -53,7 +53,7 @@ const JoinUsForm = () => {
             />
           </div>
           <div className="form-group">
-            <label htmlFor="message">Сообшение</label>
+            <label htmlFor="message">Сообщение</label>
             <textarea
               id="message"
               value={message}

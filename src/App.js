@@ -12,6 +12,7 @@ import ArticlesList from './components/ArticlesList';
 import Article from './components/Article';
 import Footer from './components/Footer';
 import JoinUsForm from './components/JoinUsForm';
+import Contact from './components/Contact';
 import './App.css';
 
 const App = () => {
@@ -30,6 +31,7 @@ const App = () => {
         <Route path="/articles" element={<ArticlesList />} />
         <Route path="/articles/:id" element={<Article />} />
         <Route path="/join" element={<JoinUsForm />} />
+        <Route path="/contacts" element={<Contact />} />
       </Routes>
       {location.pathname !== '/join' && <Footer />}
     </>

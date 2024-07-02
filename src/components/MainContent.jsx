@@ -144,7 +144,7 @@ const MainContent = () => {
                 О конкурсе
               </Link>
               <Link to="/join" className="button-link watch-now-button">
-                Вступить
+              ПОДАТЬ ЗАЯВКУ
               </Link>
             </div>
           </div>

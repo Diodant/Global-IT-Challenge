@@ -59,7 +59,7 @@ const Navigation = () => {
         <li><Link to="/jury" onClick={toggleMenu}>Жюри</Link></li>
         <li><Link to="/criteria" onClick={toggleMenu}>Критерии оценки</Link></li>
         <li><Link to="/regulations" onClick={toggleMenu}>Положение</Link></li>
-        
+        <li><Link to="/contacts" onClick={toggleMenu}>Контакты</Link></li>
         
       </ul>
     </nav>
