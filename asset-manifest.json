@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Global-IT-Challenge/static/css/main.d18ace72.css",
-    "main.js": "/Global-IT-Challenge/static/js/main.1eb34ae6.js",
+    "main.css": "/Global-IT-Challenge/static/css/main.4b31700c.css",
+    "main.js": "/Global-IT-Challenge/static/js/main.c97082e1.js",
     "static/js/453.23263ec9.chunk.js": "/Global-IT-Challenge/static/js/453.23263ec9.chunk.js",
     "static/media/photo21.jpg": "/Global-IT-Challenge/static/media/photo21.30832457323237880e01.jpg",
     "static/media/photo22.jpg": "/Global-IT-Challenge/static/media/photo22.aa6b7a73a706fd93ab24.jpg",
@@ -59,12 +59,12 @@
     "static/media/banner-overlay.svg": "/Global-IT-Challenge/static/media/banner-overlay.7e1ca933046f9bb53c0623fda89fb916.svg",
     "static/media/open.svg": "/Global-IT-Challenge/static/media/open.a0250e0ba0f8de521f2f2a550cbb6502.svg",
     "static/media/close.svg": "/Global-IT-Challenge/static/media/close.409ef88d40cd4aa243b225eebc9666f7.svg",
-    "main.d18ace72.css.map": "/Global-IT-Challenge/static/css/main.d18ace72.css.map",
-    "main.1eb34ae6.js.map": "/Global-IT-Challenge/static/js/main.1eb34ae6.js.map",
+    "main.4b31700c.css.map": "/Global-IT-Challenge/static/css/main.4b31700c.css.map",
+    "main.c97082e1.js.map": "/Global-IT-Challenge/static/js/main.c97082e1.js.map",
     "453.23263ec9.chunk.js.map": "/Global-IT-Challenge/static/js/453.23263ec9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d18ace72.css",
-    "static/js/main.1eb34ae6.js"
+    "static/css/main.4b31700c.css",
+    "static/js/main.c97082e1.js"
   ]
 }
