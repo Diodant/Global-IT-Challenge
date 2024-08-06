@@ -10,6 +10,7 @@ import JuryPhoto7 from '../img/jury/jury7.jpg';
 import JuryPhoto8 from '../img/jury/jury8.jpg';
 import JuryPhoto9 from '../img/jury/jury9.jpeg';
 import JuryPhoto10 from '../img/jury/jury10.jpg';
+import JuryPhoto11 from '../img/jury/jury11.jpg';
 
 const juryData = {
   '2020': [
@@ -72,10 +73,10 @@ const juryData = {
       photo: JuryPhoto5
     },
     {
-      name: 'Анна Белова',
-      country: 'Армения',
-      description: 'Руководитель отдела исследований и разработок в компании MNO. Специализируется на применении ИИ в здравоохранении и биотехнологиях, автор ряда научных публикаций и изобретений.',
-      photo: JuryPhoto6
+      name: 'Игорь Тертичко',
+      country: 'Украина',
+      description: 'Директор по технологическому развитию и инновациям в компании EPAM Systems. Руководитель проекта "AI-driven Customer Service" который направлен на разработку и внедрение системы поддержки клиентов на основе искусственного интеллекта',
+      photo: JuryPhoto11
     },
     {
       name: 'Иван Петров',
