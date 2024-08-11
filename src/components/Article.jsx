@@ -25,6 +25,10 @@ const Article = () => {
           return <h5 key={index}>{block.text}</h5>;
         case 'image':
           return <img key={index} src={block.src} alt={block.alt} className="article-page-image" />;
+        case 'list':
+          return <ul className='art-list'>
+            <li key={index}>{block.text}</li>
+            </ul>
         default:
           return null;
       }
